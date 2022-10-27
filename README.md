@@ -2,6 +2,9 @@ Welcome to your new dbt project!
 
 ### Using the starter project
 
+Run following command to install packages and dependencies
+- dbt deps 
+
 Try running the following commands:
 - dbt run
 - dbt test
